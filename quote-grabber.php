@@ -19,7 +19,7 @@ foreach( $paragraphs as $p ){
 	}
 }
 
-for( $i = 2; $i < 56; $i++ ){
+for( $i = 2; $i < 62; $i++ ){
 
 	sleep(1);
 
