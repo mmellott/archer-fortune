@@ -1,4 +1,4 @@
-# Archer Fortune Database
+# archer-fortune
 
 Updated with quotes from the latest seasons!
 
